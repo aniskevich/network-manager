@@ -1,0 +1,19 @@
+{
+  "name": "network-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniskevich/network-manager.git"
+  },
+  "author": "aniskevich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniskevich/network-manager/issues"
+  },
+  "homepage": "https://github.com/aniskevich/network-manager#readme"
+}
